@@ -59,16 +59,16 @@ def post_request_detail():
 
 #     return render_template("home.html",name = 'Tohn', fav ="")
 
-# @app.route("/home2", methods=['POST'])
-# def home2():
-#     print('we are in home2')
-#     getting input with name = fname in HTML form
-#     name = request.form['fav_language']
-#     print(name)
-#     return render_template("home.html",name = f"{first_name} {last_name}")
+@app.route("/home2") #, methods=['GET','POST'])
+def home2():
+    # print('we are in home2')
+    # getting input with name = fname in HTML form
+    # name = request.form['fav_language']
+    # print(name)
+    # return render_template("home.html",name = f"{first_name} {last_name}")
 
 
-#     return render_template("home.html",name = 'Tohn', fav = name)
+    return render_template("home.html",name='panda') # ,name = 'Tohn', fav = name
     
 if __name__ == "__main__":
     app.run(host='0.0.0.0', debug=True,port=5001)#host='0.0.0.0',port=5001
