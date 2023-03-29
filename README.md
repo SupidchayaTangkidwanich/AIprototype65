@@ -1,7 +1,7 @@
 # AIprototype65
 Supidchaya Tangkidwanich (623020542-0)
 
-Webpage: https://supidchayatangkidwanich.github.io/AIprototype65/
+Webpage : https://supidchayatangkidwanich.github.io/AIprototype65/
 
 # Content
 
