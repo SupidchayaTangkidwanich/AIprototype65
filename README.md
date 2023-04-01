@@ -16,3 +16,5 @@ Webpage : https://supidchayatangkidwanich.github.io/AIprototype65/
 #### คาบเรียนที่ 4 การทำงานบน Github ร่วมกัน ([Click here](https://github.com/SupidchayaTangkidwanich/AIprototype65/blob/main/%E0%B8%84%E0%B8%B2%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88%204.pdf))
 
 #### คาบเรียนที่ 5 Deep Learning ([Click here](https://github.com/SupidchayaTangkidwanich/AIprototype65/blob/main/%E0%B8%84%E0%B8%B2%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88%205.pdf))
+
+#### คาบเรียนที่ 6 Miniconda & Data Training ([Click here](https://github.com/SupidchayaTangkidwanich/AIprototype65/blob/main/%E0%B8%84%E0%B8%B2%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88%206.pdf))
