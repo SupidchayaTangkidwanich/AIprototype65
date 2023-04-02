@@ -1,7 +1,10 @@
 # AIprototype65
 Supidchaya Tangkidwanich (623020542-0)
 
-Webpage : https://supidchayatangkidwanich.github.io/AIprototype65/
+## Webpage เนื้อหารายวิชา (Web page เดี่ยว) : https://supidchayatangkidwanich.github.io/AIprototype65/
+## Webpage Project (Web page คู่) : https://github.com/Umaporn19/car-part-prediction-with-single-image
+## WebApplication project : https://github.com/Umaporn19/webapp
+## Code Project : https://github.com/Umaporn19/Project & https://github.com/SupidchayaTangkidwanich/prj
 
 # Content
 
